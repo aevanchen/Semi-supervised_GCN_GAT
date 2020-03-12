@@ -2,7 +2,7 @@
 
 # A Survey of Dimensionality Reduction Techniques
 
-<br> Authors: Xingyu Chen and Junyoung Lim </br> 
+<br> Authors: Xingyu Chen </br> 
 
 ## Graph Models
 
